@@ -1,0 +1,21 @@
+@font-face{
+    font-family: "cube";
+    src: url(fonts/JacquesFrancoisShadow-Regular.ttf);
+}
+h2{
+    font-family: "cube";
+}
+@font-face{
+    font-family: "option";
+    src: url(fonts/OriginalSurfer-Regular.ttf);
+}
+p{
+    font-family: "option";
+}
+font-face{
+    font-family: "doc";
+    src: url(fonts/Play-Regular.ttf);
+}
+.ipsum{
+    font-family: "doc";
+}
